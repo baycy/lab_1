@@ -1,4 +1,4 @@
-``` js
+
 'use strict'
 
 function inc(n) {
@@ -16,4 +16,3 @@ function incNum(num) {
 const obj = { n: 5 };
 incNum(obj);
 console.dir(obj);
-```
