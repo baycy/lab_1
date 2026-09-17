@@ -1,4 +1,4 @@
-```js
+
 'use strict';
 
 const array = [
@@ -21,4 +21,4 @@ for (const item of array) {
 }
 
 console.dir(coll);
-```
+
